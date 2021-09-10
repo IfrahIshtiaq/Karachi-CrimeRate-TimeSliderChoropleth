@@ -4,9 +4,9 @@ This project implements the analysis of Karachi's Crime Rate via Time Slider Cho
 
 
 #### 1- For Karachi's district-wise visualization: </br>
-DATASET: Crime data was taken from the official site of Sindh Police: https://www.sindhpolice.gov.pk/annoucements/henious_crime_reports.html </br>
-SHAPEFILE: GeoJSON file was available at https://github.com/deldersveld/topojson/tree/master/countries/pakistan
+**Dataset:** Crime data was taken from the official site of Sindh Police: https://www.sindhpolice.gov.pk/annoucements/henious_crime_reports.html </br>
+**ShapeFile:** GeoJSON file was available at https://github.com/deldersveld/topojson/tree/master/countries/pakistan
 
 #### 2- For Karachi's town-wise visualization: </br>
-DATASET: Dummy(Random) data was used as actual data was unavailable. </br>
-SHAPEFILE: GeoJSON file was available at https://github.com/sabman/karachicrime/tree/master/db/data
+**Dataset:** Dummy(Random) data was used as actual data was unavailable. </br>
+**ShapeFile:** GeoJSON file was available at https://github.com/sabman/karachicrime/tree/master/db/data
